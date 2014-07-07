@@ -1,0 +1,14 @@
+
+public class testFile {
+
+	public static void main(String[] args) {
+<<<<<<< .merge_file_a09120
+			System.out.println("TEST");
+			System.out.println("MAIN BRANCH");
+			System.out.println("TEST");
+			System.out.println("TEST");
+=======
+		System.out.println("TEST");
+>>>>>>> .merge_file_a07244
+	}
+}
