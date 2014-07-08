@@ -6,5 +6,7 @@ public class testFile {
 		System.out.println("TASK1 COMPLETE");	
 		System.out.println("3");
 		System.out.println("MERGE");
+		System.out.println("EPAM GIT");
+		System.out.println("EPAM GIT2");
 	}
 }
